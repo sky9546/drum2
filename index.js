@@ -51,7 +51,7 @@ function makeSound(key){
      break;
 
    case "l":
-     var audio = new Audio("sounds/crash.mp3");
+     var audio = new Audio("sounds/02 - Kheech Meri Photo - DownloadMing.SE.mp3");
      audio.play();
 
      break;
